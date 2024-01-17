@@ -1,0 +1,25 @@
+.good {
+  color: rgb(84, 40, 4);
+  font-size: 20px;
+  font-weight: bold;
+}
+.neutral {
+  color: rgb(208, 149, 104);
+  font-size: 20px;
+  font-weight: bold;
+}
+.bad {
+  color: rgb(172, 78, 2);
+  font-size: 20px;
+  font-weight: bold;
+}
+.total {
+  color: rgb(221, 107, 107);
+  font-size: 22px;
+  font-weight: bold;
+}
+.percentage {
+  color: rgb(14, 115, 78);
+  font-size: 22px;
+  font-weight: bold;
+}

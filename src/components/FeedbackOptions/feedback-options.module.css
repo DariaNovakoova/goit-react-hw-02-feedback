@@ -1,0 +1,15 @@
+.btnDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: rgb(186, 155, 102);
+  border-radius: 10%;
+  font-size: 17px;
+  margin-right: 10px;
+  border: 2px solid rgb(90, 53, 12);
+  cursor: pointer;
+  text-align: center;
+}
